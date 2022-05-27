@@ -1,0 +1,5 @@
+project: rnshah9/fzy
+target: fzy
+
+cmds:
+  - cmd: /repo/fzy -e 10
