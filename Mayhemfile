@@ -2,4 +2,4 @@ project: fzy
 target: fzy
 
 cmds:
-  - cmd: /repo/fzy -e 10
+  - cmd: /install/usr/local/bin/fzy -e 10
